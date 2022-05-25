@@ -1,0 +1,12 @@
+----------------------------------------------------------------
+Wed May 25 09:26:06 CEST 2022D001 : [0] The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585), [1] a816c00e-0180-fa1b-c7c9-00000562c600, [2] C:\Users\usuario\OneDrive\Documentos\1º DAW\PROG\UD7\Proyectos\TiendaMoviles\BDTiendaMoviles, [3] jdk.internal.loader.ClassLoaders$AppClassLoader@133314b, [4] file:/C:/Users/usuario/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-LTS-86
+user.dir=C:\Users\usuario\OneDrive\Documentos\1º DAW\PROG\UD7\Proyectos\TiendaMoviles
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+C005 : [0] 
+----------------------------------------------------------------
+Wed May 25 09:26:11 CEST 2022D002 : [0] a816c00e-0180-fa1b-c7c9-00000562c600, [1] C:\Users\usuario\OneDrive\Documentos\1º DAW\PROG\UD7\Proyectos\TiendaMoviles\BDTiendaMoviles, [2] jdk.internal.loader.ClassLoaders$AppClassLoader@133314b
